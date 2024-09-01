@@ -1,0 +1,2 @@
+This project involves an in-depth analysis of IMDb data, focusing on movies, tags, and ratings. Using Python's powerful data manipulation library, Pandas, the data is cleaned, transformed, and explored. Visualizations are created with Matplotlib to gain insights into various trends and patterns within the dataset. This project demonstrates the use of data analysis techniques to extract meaningful information from large datasets, providing valuable insights into movie ratings and tag distributions.
+
